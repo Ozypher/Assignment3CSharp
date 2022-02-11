@@ -1,0 +1,11 @@
+G:\coding\Assignment 3\BallGame\bin\Debug\netcoreapp2.1\BallGame.deps.json
+G:\coding\Assignment 3\BallGame\bin\Debug\netcoreapp2.1\BallGame.runtimeconfig.json
+G:\coding\Assignment 3\BallGame\bin\Debug\netcoreapp2.1\BallGame.runtimeconfig.dev.json
+G:\coding\Assignment 3\BallGame\bin\Debug\netcoreapp2.1\BallGame.dll
+G:\coding\Assignment 3\BallGame\bin\Debug\netcoreapp2.1\BallGame.pdb
+G:\coding\Assignment 3\BallGame\obj\Debug\netcoreapp2.1\BallGame.csprojAssemblyReference.cache
+G:\coding\Assignment 3\BallGame\obj\Debug\netcoreapp2.1\BallGame.csproj.CoreCompileInputs.cache
+G:\coding\Assignment 3\BallGame\obj\Debug\netcoreapp2.1\BallGame.AssemblyInfoInputs.cache
+G:\coding\Assignment 3\BallGame\obj\Debug\netcoreapp2.1\BallGame.AssemblyInfo.cs
+G:\coding\Assignment 3\BallGame\obj\Debug\netcoreapp2.1\BallGame.dll
+G:\coding\Assignment 3\BallGame\obj\Debug\netcoreapp2.1\BallGame.pdb
